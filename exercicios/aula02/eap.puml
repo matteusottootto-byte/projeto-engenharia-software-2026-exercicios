@@ -1,0 +1,49 @@
+@startwbs
+
+* 1. BiblioTech
+     ** 1.1 Gerência do projeto
+     *** 1.1.1 Plano de projeto e atualização [24h]
+     *** 1.1.2 Acompanhamento e reuniões [32h]
+     *** 1.1.3 Controle de riscos e mudanças [24h]
+
+** 1.2 Requisitos aprovados
+*** 1.2.1 Entrevistas e levantamento de requisitos [24h]
+*** 1.2.2 Especificação de requisitos [32h]
+*** 1.2.3 Validação com as servidoras [16h]
+
+** 1.3 Sistema de acervo e catálogo
+*** 1.3.1 Cadastro de títulos e exemplares [40h]
+*** 1.3.2 Consulta e busca do catálogo [32h]
+*** 1.3.3 Portal do estudante [40h]
+
+** 1.4 Sistema de empréstimos e reservas
+*** 1.4.1 Empréstimo, devolução e renovação [40h]
+*** 1.4.2 Sistema de reservas [24h]
+*** 1.4.3 Regras e cálculo de multas [24h]
+
+** 1.5 Migração de dados
+*** 1.5.1 Preparação e limpeza dos dados [32h]
+*** 1.5.2 Desenvolvimento do script de migração [40h]
+*** 1.5.3 Validação dos dados migrados [24h]
+
+** 1.6 Relatórios e backup
+*** 1.6.1 Relatórios de empréstimos e atrasos [24h]
+*** 1.6.2 Configuração do backup automático [24h]
+*** 1.6.3 Teste de restauração [16h]
+
+** 1.7 Testes e qualidade
+*** 1.7.1 Testes funcionais [32h]
+*** 1.7.2 Testes de desempenho [24h]
+*** 1.7.3 Testes com as servidoras [24h]
+
+** 1.8 Treinamento e documentação
+*** 1.8.1 Manual das servidoras [16h]
+*** 1.8.2 Treinamento das três servidoras [24h]
+*** 1.8.3 Guia rápido para usuários [16h]
+
+** 1.9 Implantação
+*** 1.9.1 Configuração do ambiente de produção [24h]
+*** 1.9.2 Publicação do sistema [16h]
+*** 1.9.3 Acompanhamento do lançamento [24h]
+
+@endwbs
